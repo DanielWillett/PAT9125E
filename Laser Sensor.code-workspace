@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.module": "json",
+			"*.dat": "java-properties",
+			"*.json": "jsonc",
+			"*.asset": "java-properties",
+			"*.config": "jsonc",
+			"*.tcc": "cpp",
+			"new": "cpp",
+			"array": "cpp",
+			"string": "cpp",
+			"string_view": "cpp",
+			"cmath": "cpp",
+			"atomic": "cpp",
+			"cstdint": "cpp",
+			"random": "cpp"
+		}
+	}
+}
